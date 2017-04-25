@@ -1,4 +1,7 @@
-# api documentation for  [fetch (v1.1.0)](http://github.com/andris9/fetch)  [![npm package](https://img.shields.io/npm/v/npmdoc-fetch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fetch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fetch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fetch)
+# npmdoc-fetch
+
+#### basic api documentation for  [fetch (v1.1.0)](http://github.com/andris9/fetch)  [![npm package](https://img.shields.io/npm/v/npmdoc-fetch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fetch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fetch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fetch)
+
 #### Fetch URL contents
 
 [![NPM](https://nodei.co/npm/fetch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fetch)
@@ -62,7 +65,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 

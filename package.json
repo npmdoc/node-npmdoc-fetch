@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "fetch",
-    "description": "api documentation for [fetch (v1.1.0)](http://github.com/andris9/fetch) [![npm package](https://img.shields.io/npm/v/npmdoc-fetch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fetch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fetch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fetch)",
+    "description": "#### basic api documentation for  [fetch (v1.1.0)](http://github.com/andris9/fetch)  [![npm package](https://img.shields.io/npm/v/npmdoc-fetch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fetch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fetch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fetch)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "fetch": "*",
