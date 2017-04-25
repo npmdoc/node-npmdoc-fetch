@@ -8,6 +8,6 @@
 <tspan x="10" y="90">  ├─┬ biskviit@1.0.1 </tspan>
 <tspan x="10" y="106">  │ └── psl@1.1.18 </tspan>
 <tspan x="10" y="122">  └─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="138">    └── iconv-lite@0.4.15</tspan>
+<tspan x="10" y="138">    └── iconv-lite@0.4.16</tspan>
 </text>
 </svg>
